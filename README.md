@@ -1,8 +1,8 @@
-<h1 align="left">♡ Angélica Langue</h1>
+<h1 align="left"> Angélica Langue</h1>
 
 ###
 
-<h3 align="left">♡ Estudante de Ciência da Computação | Foco em FrontEnd</h3>
+<h3 align="left"> Estudante de Ciência da Computação | Foco em FrontEnd</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">♡ Línguas e Ferramentas</h3>
+<h3 align="left"> Línguas e Ferramentas</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<h2 align="center">♡ Redes Sociais ♡</h2>
+<h2 align="center"> Redes Sociais </h2>
 
 ###
 
